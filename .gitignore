@@ -1,2 +1,4 @@
 config_locale.txt
 *.sh
+*.zip
+*.properties
